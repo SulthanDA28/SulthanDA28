@@ -8,7 +8,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop some project, like Web, GUI, or Android App.\
 🎓 &nbsp;I'm currently Fresh Graduate from Computer Science and Information Technology at Institute Technology of Bandung.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelegent, Machine Learning, and Security.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelegent and Machine Learning.\
 ✉️ &nbsp;My Email dzakysultan30@gmail.com.
 
 
